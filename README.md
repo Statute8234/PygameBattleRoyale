@@ -1,4 +1,4 @@
-# Pygame_battle
+# PygameBattleRoyale
 
 The game is a Python-based game with a player-controlled character, enemies, and bullets. The objective is to shoot down enemies while avoiding collisions. The game uses sprite objects with unique properties and behaviors. The player can move and shoot in four directions, and bullets can be eliminated. The game features collision detection, resetting the player character's position and speed. The game environment is a background image, with the loop updating the state.
 
