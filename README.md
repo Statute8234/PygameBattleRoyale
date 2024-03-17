@@ -7,7 +7,7 @@ The game is a Python-based game with a player-controlled character, enemies, and
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 4/10](#Rating)
+- [Rating: 6.4/10](#Rating)
 
 # About
 
